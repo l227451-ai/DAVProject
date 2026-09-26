@@ -98,7 +98,7 @@ The Full/Incremental split is a project simulation based on the historical Olist
 **Team Members:**
 
 * Rafia Mohsin
-* Shanzay Shahzad
+* Shanzey Shahid Khan
 
 **Course:** Data Analysis and Visualization
 
